@@ -1,3 +1,4 @@
+import Navbar from "./Navbar";
 
 
 function Portfolio() {
@@ -6,6 +7,7 @@ function Portfolio() {
 
     return (
   <p>
+    <Navbar/>
     Hello World
   </p>
     );
