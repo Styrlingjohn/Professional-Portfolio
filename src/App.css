@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Alkatra', cursive;
+  }
+  
+body {
+    /* background-image: url(../public/background.jpg); */
+    background-color: rgb(19, 8, 61);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-bottom: 2.5rem;
+    font-size: x-large;
+  }
+  p {
+    color: white;
+  }
